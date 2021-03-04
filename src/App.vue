@@ -2,10 +2,25 @@
   <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
-    <router-link to="/99">99乘法</router-link> 
+    <router-link to="/99">99乘法</router-link>
+    <input type="checkbox" v-model="dark"/> dark mode
   </div>
-  <router-view/>
+  <div :class = "{dark: dark}">
+    <router-view/>
+  </div>
+
 </template>
+
+<script>
+  export default {
+    name: 'App',
+    data() {
+      return {
+        dark: false
+    }
+  }
+}
+</script>
 
 <style>
 #app {
@@ -14,6 +29,11 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+}
+
+.dark { 
+  background-color: black;
+  color: white;
 }
 
 #nav {
