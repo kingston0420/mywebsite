@@ -43,9 +43,13 @@
   </div>
 </template>
 
-
 <style scoped>
- 
+
+ul {
+  margin: 0 auto;
+  text-align: left;
+  width: 25vw;
+}
 
 </style>
 
