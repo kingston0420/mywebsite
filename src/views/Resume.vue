@@ -82,7 +82,7 @@
   height: 18em;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 620px) {
   .row {
     flex-direction: column;
   }
@@ -97,7 +97,7 @@ ul {
   width: 25vw;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 620px) {
   ul {
     width: 100vw;
   }
