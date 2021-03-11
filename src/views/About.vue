@@ -9,3 +9,17 @@
     </p>
   </div>
 </template>
+
+<style scoped>
+p {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 18px;
+    line-height: 1.6em;
+  }
+
+p::first-letter {
+  font-size: 2em;
+}
+</style>

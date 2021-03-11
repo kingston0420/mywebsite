@@ -41,9 +41,10 @@
   table {
     border-collapse: collapse;
     margin: 0 auto;
+    max-width: 800px; 
   }
 
-    th {
-        background-color: #FCF;
-    }
+  th {
+      background-color: #FCF;
+  }
 </style>

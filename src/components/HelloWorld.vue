@@ -34,4 +34,8 @@
   a {
     color: #42b983;
   }
+  p {
+    max-width: 800px;
+    margin: 0 auto;
+  }
 </style>
