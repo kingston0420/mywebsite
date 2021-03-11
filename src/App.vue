@@ -62,6 +62,6 @@ html, body {
 }
 
 a.router-link-exact-active {
-  color: #42b983;
+  background-color: #42b983 !important;
 }
 </style>
