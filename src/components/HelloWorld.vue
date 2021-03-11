@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <i class="github icon"/>
     <h1>Hello, I'm Kingston Chen</h1>
     <h2>Welcome to my website</h2>
     <p> I am an undergraduate student studying Electrical Engineering at the University of British Columbia with a strong interest in software development. 
