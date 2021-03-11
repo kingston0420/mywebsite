@@ -2,8 +2,8 @@
   <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
-    <router-link to="/99">99乘法</router-link> |
-    <router-link to="/Project">Project</router-link> 
+    <router-link to="/Project">Project</router-link> |
+    <router-link to="/Resume">Resume</router-link> | 
     <input type="checkbox" v-model="dark"/> dark mode
   </div>
   <div :class = "{dark: dark}">

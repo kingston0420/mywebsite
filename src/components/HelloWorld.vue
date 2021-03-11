@@ -1,33 +1,37 @@
 <template>
   <div class="home">
-    <h1>Kingston's Website</h1>
-    <p> Welcome to my website. I'm a djdfjsdfksd <br> dfhsudfhsdkfj</p>
+    <h1>Hello, I'm Kingston Chen</h1>
+    <h2>Welcome to my website</h2>
+    <p> I am an undergraduate student studying Electrical Engineering at the University of British Columbia with a strong interest in software development. 
+        My technical work experiences include: Process Enginner at Texas Instruments, Application Enginner at Maxim Integrated, and Network/Software Engineer at Bell Canada. 
+        Here, you will find out more about me, my projects, and my hobbies. 
+    </p>
   </div>
 </template>
 
 <script>
-export default {
-  name: 'HelloWorld',
-  props: {
-    msg: String
+  export default {
+    name: 'HelloWorld',
+    props: {
+      msg: String
+    }
   }
-}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
-}
+  h3 {
+    margin: 40px 0 0;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  a {
+    color: #42b983;
+  }
 </style>
