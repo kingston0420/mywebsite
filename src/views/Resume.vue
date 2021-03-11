@@ -70,12 +70,25 @@
   background-color: rgb(202, 243, 20);
 }
 
+.row {
+  display: flex;
+}
+
 .c {
   display: inline-block;
   width: 33%;
   vertical-align: top;
   padding-bottom: 2em;
-  height: 16em;
+  height: 18em;
+}
+
+@media screen and (max-width: 420px) {
+  .row {
+    flex-direction: column;
+  }
+  .c {
+    width: 100%;
+  }
 }
 
 ul {
