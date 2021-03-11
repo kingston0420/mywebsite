@@ -1,7 +1,7 @@
 <template>
   <div class="resume">
+    <h1>Technical Skills</h1>
     <div class="row">
-      <h1>Technical Skills</h1>
       <div class="c" id="software">
         <h2>Software</h2>
         <ul>
