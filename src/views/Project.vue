@@ -42,6 +42,7 @@
     border-collapse: collapse;
     margin: 0 auto;
     max-width: 800px; 
+    box-shadow: 0px 5px 5px 0px #9B8F99;
   }
 
   th {

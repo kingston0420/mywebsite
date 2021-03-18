@@ -80,6 +80,7 @@
   vertical-align: top;
   padding-bottom: 2em;
   height: 18em;
+  box-shadow: 0px 5px 5px 0px #9B8F99;
 }
 
 @media screen and (max-width: 620px) {
