@@ -3,7 +3,7 @@
     <h1>Technical Skills</h1>
     <div class="row">
       <div class="c" id="software">
-        <h2>Software</h2>
+        <h2><i class="user secret icon"/>Software</h2>
         <ul>
           <li>C, C++, C#</li>
           <li>Java</li>
@@ -17,7 +17,7 @@
         </ul>
       </div>
       <div class="c" id="hardware">
-        <h2>Hardware</h2>
+        <h2><i class="desktop icon"/>Hardware</h2>
         <ul>
           <li>Circuit Analysis/Design</li>
           <li>Boolean Logic</li>
@@ -32,7 +32,7 @@
         </ul>
       </div>
       <div class="c" id="others">
-        <h2>Others</h2>
+        <h2><i class = "paint brush icon"/>Others</h2>
         <ul>
           <li>Bilingual English and Mandarin</li>
           <li>Git, Git bash</li>
