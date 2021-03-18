@@ -1,12 +1,12 @@
 <template>
   <div class="back" :class = "{dark: dark}">
     <div class="ui menu">
-      <router-link class="item" to="/">Home</router-link>
-      <router-link class="item" to="/about">About</router-link>
-      <router-link class="item" to="/Project">Project</router-link>
-      <router-link class="item" to="/Resume">Resume</router-link>
+      <router-link class="item" to="/"><i class="home icon"/>Home</router-link>
+      <router-link class="item" to="/about"><i class="address card icon"/>About</router-link>
+      <router-link class="item" to="/Project"><i class="file alternate icon"/>Project</router-link>
+      <router-link class="item" to="/Resume"><i class= "folder icon"/>Resume</router-link>
       <div class="item">
-        <input type="checkbox" v-model="dark"/> dark mode
+        <input type="checkbox" v-model="dark"/><i class="sun icon"/>dark mode
       </div>
     </div>
     <div>
