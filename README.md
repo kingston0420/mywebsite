@@ -1,4 +1,6 @@
 # mywebsite
+This is my personal website you will find out more about me, my projects, my resume, and my hobbies.
+[MyWebSite] (https://kingston0420.github.io/mywebsite/#/)
 
 ## Project setup
 ```
