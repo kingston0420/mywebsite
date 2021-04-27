@@ -4,7 +4,7 @@
     <h1>Hello, I'm Kingston Chen</h1>
     <h2>Welcome to my website</h2>
     <p> I am an undergraduate student studying Electrical Engineering at the University of British Columbia with a strong interest in software development. 
-        My technical work experiences include: Process Enginner at Texas Instruments, Application Enginner at Maxim Integrated, and Network/Software Engineer at Bell Canada. 
+        My technical work experiences include: Application Enginner at Maxim Integrated and Network/Software Engineer at Bell Canada. 
         Here, you will find out more about me, my projects, and my hobbies. 
     </p>
   </div>
@@ -38,6 +38,7 @@
   }
   p {
     max-width: 800px;
-    margin: 0 auto;
+    margin: 20px auto;
+    text-align: left;
   }
 </style>

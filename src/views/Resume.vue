@@ -1,7 +1,7 @@
 <template>
   <div class="resume">
-    <h1>Technical Skills</h1>
-    <div class="row">
+    <h1>TECHNICAL SKILLS</h1>
+    <div class="technicalSkills">
       <div class="c" id="software">
         <h2><i class="user secret icon"/>Software</h2>
         <ul>
@@ -49,7 +49,7 @@
       </div>
     </div>
 
-    <h1>Technical Work Experience</h1>
+    <h1>TECHNICAL WORK EXPERIENCE</h1>
     <div class="technicalWorkExperience">
       <h2>Bell Canada Enterprises - Vancouver, Canada <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September, 2020 – September, 2021</span></h2> 
       <h2>Network Specialist, Solutions Architecture / Software Developer</h2>
@@ -73,7 +73,7 @@
       </ul>
     </div>
     
-    <h1>Other Work Experience</h1>
+    <h1>OTHER WORK EXPERIENCE</h1>
     <div class="technicalWorkExperience">
       <h2>Kingston Live With Style - Vancouver, BC <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May, 2018 – Present</span></h2>
       <h2>Brand Founder</h2>
@@ -126,18 +126,18 @@
 <style scoped>
 
 #others {
-  background-color: cyan;
+  background-color: rgb(255, 241, 230);
 }
 
 #hardware {
-  background-color: chartreuse;
+  background-color: rgb(255, 241, 230);
 }
 
 #software {
-  background-color: rgb(202, 243, 20);
+  background-color: rgb(255, 241, 230);
 }
 
-.row {
+.technicalSkills {
   display: flex;
 }
 
@@ -151,7 +151,7 @@
 }
 
 @media screen and (max-width: 620px) {
-  .row {
+  .technicalSkills {
     flex-direction: column;
   }
   .c {
@@ -159,7 +159,7 @@
   }
 }
 
-.row ul {
+.technicalSkills ul {
   margin: 0 auto;
   text-align: left;
   width: 25vw;
@@ -181,11 +181,19 @@ span {
 .technicalWorkExperience {
   text-align: left;
   padding: 10px 40px;
-  background-color: cornflowerblue;
+  background-color: rgb(255, 239, 226);
 }
 
 .technicalWorkExperience h2 {
   margin: 5px 0px;
 }
+
+h1 {
+  background-color: rgba(255, 120, 58, 0.884);
+  padding: 30px 0px;
+  margin: 0px 0px;
+  font-family: monospace;
+}
+
 </style>
 
