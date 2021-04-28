@@ -57,7 +57,7 @@
           <li>Develop and apply technical knowledge on SONET, Ethernet, IP/MPLS network, application layer protocols, data & network virtualization (SDN/NFV) and data analytics technologies</li>
           <li>Participate in the development and lab verification of new SONET, Ethernet, IP/MPLS and virtualization services and network infrastructure architecture.</li>
           <li>Construct network circuit based on customer’s need and conduct Layer2 and Layer3 test to make sure each characteristic measurement meet the requirement. Work with Cisco IOS and JunOS CLI.</li>
-          <li>Develop web application for network device management. Create script for firmware update and device configuration.</li>
+          <li>Develop web applications for network device management. Create script for firmware update and device configuration.</li>
       </ul>
     </div>
 
@@ -85,9 +85,9 @@
     </div>
     <div class="technicalWorkExperience">
       <h2>UBC Unlimited Dance Club - Vancouver, BC <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April, 2019 – April, 2020</span></h2>
-      <h2>April, 2019 – April, 2020</h2>
+      <h2>Instructor and Choreographer</h2>
       <ul>
-        <li>Create choreography and teach students the fundamentals and technique of Locking, a style of dance</li>
+        <li>Create choreography and teach students the fundamentals, technique, and history of Locking dance style</li>
       </ul>
     </div>
     <div class="technicalWorkExperience">
@@ -98,20 +98,22 @@
       </ul>
     </div>
 
-    <h1>Volunteer Experience</h1>
+    <h1>VOLUNTEER EXPERIENCE</h1>
     <div class="technicalWorkExperience">
       <h2>UBC Dance Horizons - Vancouver, BC <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April, 2018 – Present</span></h2>
       <h2>Vice President </h2>
       <ul>
-          <li>Design creative clothing using photoshop and illustrator, as well as manage production line</li>
-          <li>Manage website and Instagram by adding relevant photos, videos, and applying creative marketing skills</li>
-          <li>Communicate effectively with customers and partners to ensure they are satisfied with the products</li>
+          <li>Manage PR, Creative, and Event department with deadline and goals</li>
+          <li>Write minutes and conduct weekly meetings with an executive team of 40 people</li>
+          <li>Lead the creative/marketing executive team of the largest dance club in UBC to keep deadlines organized and ensure that all classes, teams, and events are properly promoted and run smoothly</li>
+          <li>Broke records in show ticket sales, class attendance, and membership while building a sense of community in the club</li>      
       </ul>
     </div>
     <div class="technicalWorkExperience">
-      <h2>UBC Taiwanese Association - Vancouver, BC <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April, 2018 – April, 2020</span></h2>
+      <h2>UBC Taiwan Association - Vancouver, BC <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April, 2018 – April, 2020</span></h2>
       <h2>Marketing Director </h2>
       <ul>
+        <li>Allocate jobs to marketing executives and collaborate with other departments to make sure the advertisement quality and deadline are meet</li>
         <li>Responsible for creating graphic design of Facebook banners, Instagram posts, Snapchat stories, event posters, handouts, and promo videos</li>
         <li>Apply advertising skills and constantly on the lookout for the club’s image and reputation</li>
       </ul>

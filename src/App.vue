@@ -3,8 +3,8 @@
     <div class="ui menu">
       <router-link class="item" to="/"><i class="home icon"/>Home</router-link>
       <router-link class="item" to="/about"><i class="address card icon"/>About</router-link>
-      <router-link class="item" to="/Project"><i class="file alternate icon"/>Project</router-link>
-      <router-link class="item" to="/Resume"><i class= "folder icon"/>Resume</router-link>
+      <router-link class="item" to="/Project"><i class="folder icon"/>Project</router-link>
+      <router-link class="item" to="/Resume"><i class= "file alternate icon"/>Resume</router-link>
       <div class="item">
         <input type="checkbox" v-model="dark"/><i class="sun icon"/>dark mode
       </div>
