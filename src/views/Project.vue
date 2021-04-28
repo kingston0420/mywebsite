@@ -55,7 +55,7 @@
   } 
 
   th {
-      background-color: #FCF;
+      background-color: #9072ad;
   }
 
 

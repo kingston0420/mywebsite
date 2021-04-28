@@ -3,11 +3,14 @@
     <a href="https://www.linkedin.com/in/kingstonchen/" target="_blank" rel="noopener noreferrer"><i class="linkedin icon"/></a>
     <a href="https://github.com/kingston0420" target="_blank" rel="noopener noreferrer"><i class="github icon"/></a>
     <a href="mailto:kingston.jy.chen@gmail.com" target="_blank" rel="noopener noreferrer"><i class="envelope icon"/></a>
-    <h1>Hello, I'm Kingston Chen</h1>
+    <h1>Hello, I'm <span style="color: #5603ad;">Kingston</span> Chen</h1>
     <h2>Welcome to my website</h2>
     <p> I am an undergraduate student studying Electrical Engineering at the University of British Columbia with a strong interest in software development. 
-        My technical work experiences include: Application Enginner at Maxim Integrated and Network/Software Engineer at Bell Canada. 
-        Here, you will find out more about me, my projects, and my hobbies. 
+        My technical work experiences include: Application Enginner at Maxim Integrated and Network/Software Engineer at Bell Canada Enterprises. 
+        Here, you will find out more about me, my projects, and my hobbies. You can reach me via: 
+        <a href="https://www.linkedin.com/in/kingstonchen/" target="_blank" rel="noopener noreferrer"><i class="linkedin icon"/></a>
+        <a href="https://github.com/kingston0420" target="_blank" rel="noopener noreferrer"><i class="github icon"/></a>
+        <a href="mailto:kingston.jy.chen@gmail.com" target="_blank" rel="noopener noreferrer"><i class="envelope icon"/></a>
     </p>
   </div>
 </template>

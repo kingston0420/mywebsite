@@ -189,7 +189,7 @@ span {
 }
 
 h1 {
-  background-color: rgba(255, 120, 58, 0.884);
+  background-color: #9072ad;
   padding: 30px 0px;
   margin: 0px 0px;
   font-family: monospace;
