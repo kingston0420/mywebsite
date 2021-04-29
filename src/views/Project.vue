@@ -46,10 +46,10 @@
   table {
     border-collapse: collapse;
     margin: 0 auto;
+    width: 95vw;
     max-width: 900px; 
     box-shadow: 0px 5px 5px 0px #9B8F99;
-    white-space: nowrap;
-
+/*    white-space: nowrap; */
   }
   .dis {
     white-space: normal;
