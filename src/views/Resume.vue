@@ -1,5 +1,5 @@
 <template>
-  <div class="resume">
+  <div class="resume" :class="{dark:dark}">
     <h1>TECHNICAL SKILLS</h1>
     <div class="technicalSkills">
       <div class="c" id="software">
@@ -124,6 +124,14 @@
   
 </template>
 
+<script>
+  export default {
+    name: 'Resume',
+    props: {
+      dark: Boolean
+    }
+  }
+</script>
 
 <style scoped>
 
@@ -148,8 +156,16 @@
   width: 33.333%;
   vertical-align: top;
   padding-bottom: 2em;
-  height: 18em;
+  height: 22em;
   box-shadow: 0px 5px 5px 0px #9B8F99;
+}
+
+.dark #others, .dark #hardware, .dark #software {
+  background-color: black;
+}
+
+.dark .technicalWorkExperience {
+  background-color: black;
 }
 
 @media screen and (max-width: 620px) {

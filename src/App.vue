@@ -10,7 +10,7 @@
       </div>
     </div>
     <div>
-      <router-view/>
+      <router-view :dark="dark"/>
     </div>
   </div>
 </template>
@@ -44,6 +44,13 @@ html, body {
 .dark { 
   background-color: black;
   color: white;
+}
+
+.dark table{ 
+  background-color: black;
+  color: white;
+  border-block-color: white !important;
+
 }
 
 .back {

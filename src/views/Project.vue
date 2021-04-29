@@ -46,9 +46,10 @@
   table {
     border-collapse: collapse;
     margin: 0 auto;
-    max-width: 800px; 
+    max-width: 900px; 
     box-shadow: 0px 5px 5px 0px #9B8F99;
     white-space: nowrap;
+
   }
   .dis {
     white-space: normal;
@@ -56,6 +57,10 @@
 
   th {
       background-color: #9072ad;
+  }
+
+  th, td {
+    width: 25%;
   }
 
 
