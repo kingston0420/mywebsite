@@ -46,11 +46,8 @@ html, body {
   color: white;
 }
 
-.dark table{ 
-  background-color: black;
-  color: white;
-  border-block-color: white !important;
-
+.dark table, .dark th, .dark td {
+  border: 3px solid white !important; 
 }
 
 .back {
