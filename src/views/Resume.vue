@@ -75,7 +75,7 @@
     
     <h1>OTHER WORK EXPERIENCE</h1>
     <div class="technicalWorkExperience">
-      <h2>Kingston Live With Style - Vancouver, BC <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May, 2018 – Present</span></h2>
+      <h2>Kingston Live with Style - Vancouver, BC <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May, 2018 – Present</span></h2>
       <h2>Brand Founder</h2>
       <ul>
           <li>Design creative clothing using photoshop and illustrator, as well as manage production line</li>
