@@ -11,7 +11,7 @@
           <li>HTML, CSS, JavaScript</li>
           <li>Vue.js/framework</li>
           <li>Android Studio</li>
-          <li>Arm and 8051 Assembly</li>
+          <li>Arm, 8051 Assembly</li>
           <li>SQL, R</li>
           <li>MATLAB, Simulink</li>
           <li>Verilog(ModelSim/Quartus)</li>
@@ -21,15 +21,15 @@
         <h2><i class="desktop icon"/>Hardware</h2>
         <ul>
           <li>Circuit Analysis/Design</li>
-          <li>Boolean Logic</li>
-          <li>FPGA</li>
+          <li>FPGA, Boolean Logic</li>
+          <li>NI Multisim, Ultiboard</li>
           <li>Oscilloscope</li>
           <li>Signal Generator</li>
           <li>Multimeter</li>
           <li>Breadboard</li>
           <li>Soldering Iron</li>
           <li>Circuit Maker</li>
-          <li>Network router, switch and NID</li>
+          <li>Network router and switch</li>
         </ul>
       </div>
       <div class="c" id="others">
@@ -54,10 +54,11 @@
       <h2>Bell Canada Enterprises - Vancouver, Canada <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September, 2020 – September, 2021</span></h2> 
       <h2>Network Specialist, Solutions Architecture / Software Developer</h2>
       <ul>
-          <li>Develop and apply technical knowledge on SONET, Ethernet, IP/MPLS network, application layer protocols, data & network virtualization (SDN/NFV) and data analytics technologies</li>
-          <li>Participate in the development and lab verification of new SONET, Ethernet, IP/MPLS and virtualization services and network infrastructure architecture.</li>
-          <li>Construct network circuit based on customer’s need and conduct Layer2 and Layer3 test to make sure each characteristic measurement meet the requirement. Work with Cisco IOS and JunOS CLI.</li>
-          <li>Develop web applications for network device management. Create script for firmware update and device configuration.</li>
+          <li>Developed and applied technical knowledge on SONET, Ethernet, IP/MPLS network, application layer protocols, data & network virtualization (SDN/NFV) and data analytics technologies</li>
+          <li>Participated in the development and lab verification of new SONET, Ethernet, IP/MPLS and virtualization services and network infrastructure architecture</li>
+          <li>Worked with Cisco IOS and JunOS CLI to construct network circuit based on customer needs and conducted layer2 and layer3 tests to make sure each characteristic measurement meet the requirement</li>
+          <li>Developed web applications for network device management</li>
+          <li>Created script for firmware update and  network device configuration </li>
       </ul>
     </div>
 
@@ -65,11 +66,11 @@
       <h2>Maxim Integrated - Vancouver, Canada <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July, 2020 – September, 2020</span></h2>
       <h2>Application Engineer</h2>
       <ul>
-        <li>Assist in the development of new products from conception, through development, testing and final production</li>
-        <li>Perform system level and hardware level verification, debug, and testing on new products and create automation test system.</li>
-        <li>Write bug reports which clearly detail the problem and how to reproduce it.</li>
-        <li>Research and develop a firm knowledge of USB, DP, RJ45, and RS 232 standards and work with all different groups including hardware design, software design, marketing, and production.</li>
-        <li>Work with Cisco, Netgear, Dell network switches through CLI – configuration, VLAN, subnet, and bandwidth.</li>
+        <li>Assisted in the development of new products from conception, through development, testing and final production</li>
+        <li>Performed system level and hardware level verification, debug, and testing on new products and create automation test system using python</li>
+        <li>Conduct tests and bug reports to detailed problems and the steps to reproduce them</li>
+        <li>Researched and developed a firm knowledge of USB, DP, RJ45, and RS 232 standards and worked with all departments throughout the company, including hardware design, software design, marketing, and production</li>
+        <li>Worked with Cisco, Netgear, Dell network switches through CLI – configuration, VLAN, subnet, and bandwidth</li>
       </ul>
     </div>
     
@@ -78,9 +79,9 @@
       <h2>Kingston Live with Style - Vancouver, BC <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May, 2018 – Present</span></h2>
       <h2>Brand Founder</h2>
       <ul>
-          <li>Design creative clothing using photoshop and illustrator, as well as manage production line</li>
-          <li>Manage website and Instagram by adding relevant photos, videos, and applying creative marketing skills</li>
-          <li>Communicate effectively with customers and partners to ensure they are satisfied with the products</li>
+          <li>Design creative clothing using Adobe Photoshop and Illustrator, as well as manage production lines</li>
+          <li>Manage a website and Instagram account by adding relevant photos and videos, while applying creative marketing skills</li>
+          <li>Communicate effectively with customers and partners to ensure they are satisfied with their products</li>
       </ul>
     </div>
     <div class="technicalWorkExperience">
@@ -94,7 +95,7 @@
       <h2>UBC Recreation - Vancouver, BC <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; December, 2017 – April, 2020</span></h2>
       <h2>Volleyball and Basketball Referee </h2>
       <ul>
-          <li>Responsible for signing in players, reporting scores, and presiding over the game from a neutral point of view to enforce the rules</li>
+          <li>Responsible for signing in players, reporting scores, and presiding over the game from a neutral point of view to enforce game rules</li>
       </ul>
     </div>
 
@@ -103,10 +104,9 @@
       <h2>UBC Dance Horizons - Vancouver, BC <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April, 2018 – Present</span></h2>
       <h2>Vice President </h2>
       <ul>
-          <li>Manage PR, Creative, and Event department with deadline and goals</li>
+          <li>Lead the PR, Creative, and Event department of the largest dance club in UBC to keep deadlines organized and ensure that all classes, teams, and events are properly promoted and run smoothly</li>
           <li>Write minutes and conduct weekly meetings with an executive team of 40 people</li>
-          <li>Lead the creative/marketing executive team of the largest dance club in UBC to keep deadlines organized and ensure that all classes, teams, and events are properly promoted and run smoothly</li>
-          <li>Broke records in show ticket sales, class attendance, and membership while building a sense of community in the club</li>      
+          <li>Broke records in show ticket sales, class attendance, and membership while building a sense of community in the club</li>    
       </ul>
     </div>
     <div class="technicalWorkExperience">
