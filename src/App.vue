@@ -6,7 +6,7 @@
       <router-link class="item" to="/Project"><i class="folder icon"/>Project</router-link>
       <router-link class="item" to="/Resume"><i class= "file alternate icon"/>Resume</router-link>
       <div class="item">
-        <input type="checkbox" v-model="dark"/><i class="sun icon"/>dark mode
+        <input type="checkbox" v-model="dark"/><i class="moon icon"/>Dark Mode
       </div>
     </div>
     <div>
